@@ -1,0 +1,10 @@
+html-demo-project/
+│
+├── index.html         # Main HTML file
+├── README.md          # Project description
+├── LICENSE            # License file
+├── .gitignore         # Ignore unnecessary files
+├── assets/            # Folder for images and videos
+│   ├── Picture.jpeg
+│   └── MyVideo.mp4
+└── css/               # (Optional) Folder for CSS files
